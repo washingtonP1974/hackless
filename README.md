@@ -3,9 +3,8 @@ Pentesting wireless tricks
 
 <div align="center">
   <br/>
-  <img src="https://tenor.com/pt-BR/view/eth-blockchain-technology-ethereum-gif-26228977"
+  <img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" alt="Hackerman">
 </div>
-
 
 Set of scripts in Python and bash, with the purpose of assisting wireless network testing, consider reading each readme.txt contained in each script folder.
 
