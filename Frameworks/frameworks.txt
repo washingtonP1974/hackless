@@ -1,0 +1,8 @@
+# Frameworks
+
+Script to download and install:
+- wifiphisher
+- wifijammer
+- SniffAir
+- WiFi-Pumpkin
+- eaphammer
